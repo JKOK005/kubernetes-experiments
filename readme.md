@@ -13,5 +13,5 @@ docker run simple_app:1.0
 ```
 
 You should see the following prints
-- <numpy installed version>
+- (numpy installed version)
 - Simple test app successful
